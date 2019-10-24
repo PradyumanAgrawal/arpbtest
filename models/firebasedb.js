@@ -38,6 +38,7 @@ const schema = {
 
 module.exports = {
    studyResources,
+   firestore,
     schema,
    storage
 };
